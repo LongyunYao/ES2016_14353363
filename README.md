@@ -19,7 +19,7 @@ DOL允许指定基于KPN模型计算的应用程序，并且能够设定一个�
 
 ##下载文件
 
-提前下载好[systemc-2.3.1.tgz](http://www.accellera.org/images/downloads/standards/systemc/systemc-2.3.1.tgz)和[dol_ethz.zip](http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip)文件，拖进ubuntu中备用。
+提前下载好[systemc-2.3.1.tgz](http://www.accellera.org/images/downloads/standards/systemc/systemc-2.3.1.tgz)和[dol_ethz.zip](http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip)文件，拖进ubuntu的home文件夹中备用。
 <br>
 <br>
 
@@ -27,9 +27,9 @@ DOL允许指定基于KPN模型计算的应用程序，并且能够设定一个�
 
 * 新建dol的文件夹 <br>
 `$	mkdir dol`
-* 将dolethz.zip解压到 dol文件夹中 <br>
+* 将dolethz.zip解压到 dol文件夹中(注意，我之前已经提前下载好了压缩包) <br>
 `$	unzip dol_ethz.zip -d dol`
-* 解压systemc <br>
+* 解压systemc(同样，我已经提前下载好了压缩包) <br>
 `$	tar -zxvf systemc-2.3.1.tgz`
 <br>
 <br>
