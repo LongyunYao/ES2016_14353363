@@ -35,7 +35,7 @@ ROS安装
 
 ### 搭建环境
 
-这里我果断选择了第一个指令
+这里我果断选择了第一个指令 <br>
 `echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc` <br>
 `source ~/.bashrc`
 
